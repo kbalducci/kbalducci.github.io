@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: I Need a She-roe
+subtitle: Ruby on Rails App
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2014-02-26
+img: sheroe.png
+thumbnail: sheroe.png
 alt: image-alt
-project-date: April 2014
+project-date: Feb. 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: I Need a She-roe is an app designed to inspire women facing various issues in multiple aspects of their lives (personal, student, professional). This was a group project consisting of a Rails developer (me), a Front-end developer, and a Designer. The project was presented during The Iron Yard's internal hackathon. Our group was awarded the best overall app and presentation in the hackathon.
+github-button: https://github.com/kbalducci/womenpower
+site-button: https://women-power.herokuapp.com/users/sign_in
 
 ---

@@ -1,15 +1,17 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Lift Up!
+subtitle: Ruby on Rails App
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: lift-test.png
+thumbnail: lift-test.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Lift Up! was my final demo project at The Iron Yard. Users can learn about volunteer opportunities in their area and get ideas for random acts of kindness (RAKS). Users can also add ideas and create to-do lists for volunteering and RAKs.
+github-button: https://github.com/kbalducci/kindness
+site-button: https://spread-kindness.herokuapp.com/
 
 ---
