@@ -1,6 +1,6 @@
 ---
-title: Digital Etiquette
-<!-- subtitle: Ruby on Rails App -->
+title: Blog Post
+subtitle: Digital Etiquette and Cyber Safety
 layout: default
 modal-id: 2
 <!-- date: 2014-02-26 -->
