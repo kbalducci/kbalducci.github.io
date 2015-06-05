@@ -51,8 +51,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: rss-sign
-    url: http://msbalduccitech.blogspot.com/
+  - title: github
+    url: https://github.com/kbalducci
   - title: twitter
     url: https://twitter.com/katebalducci
   # - title: stack-overflow
