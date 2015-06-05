@@ -1,6 +1,6 @@
 ---
-title: Blog Post
-subtitle: Innovate Don't Digitize
+title: Innovate Don't Digitize
+subtitle: Blog Post
 layout: default
 modal-id: 1
 date: 2014-07-18

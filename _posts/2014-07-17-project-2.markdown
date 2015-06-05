@@ -1,6 +1,6 @@
 ---
-title: Blog Post
-subtitle: Digital Etiquette and Cyber Safety
+title: Digital Etiquette and Cyber Safety
+subtitle: Blog Post
 layout: default
 modal-id: 2
 <!-- date: 2014-02-26 -->

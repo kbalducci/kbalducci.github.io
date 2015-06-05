@@ -1,6 +1,6 @@
 ---
-title: Blog Post
-subtitle: Research and ISTE Standards
+title: Research and ISTE Standards
+subtitle: Blog Post
 layout: default
 modal-id: 3
 date: 2014-07-16
