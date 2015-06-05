@@ -1,17 +1,17 @@
 ---
-title: I Need a She-roe
-subtitle: Ruby on Rails App
+title: Digital Etiquette
+<!-- subtitle: Ruby on Rails App -->
 layout: default
 modal-id: 2
-date: 2014-02-26
-img: sheroe.png
-thumbnail: sheroe.png
+<!-- date: 2014-02-26 -->
+img: diget.png
+thumbnail: diget.png
 alt: image-alt
 project-date: Feb. 2014
 client: Start Bootstrap
 category: Web Development
-description: I Need a She-roe is an app designed to inspire women facing various issues in multiple aspects of their lives (personal, student, professional). This was a group project consisting of a Rails developer (me), a Front-end developer, and a Designer. The project was presented during The Iron Yard's internal hackathon. Our group was awarded the best overall app and presentation in the hackathon.
-github-button: https://github.com/kbalducci/womenpower
-site-button: https://women-power.herokuapp.com/users/sign_in
+<!-- description: I Need a She-roe is an app designed to inspire women facing various issues in multiple aspects of their lives (personal, student, professional). This was a group project consisting of a Rails developer (me), a Front-end developer, and a Designer. The project was presented during The Iron Yard's internal hackathon. Our group was awarded the best overall app and presentation in the hackathon. -->
+<!-- github-button: https://github.com/kbalducci/womenpower -->
+site-button: http://msbalduccitech.blogspot.com/2015/06/digital-etiquette-and-cyber-safety.html
 
 ---
