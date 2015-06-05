@@ -1,15 +1,16 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: PD Presentation
+subtitle: TCEA
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+modal-id: 3
+date: 2014-07-16
+img: pd.png
+thumbnail: pd.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Research
+description:
+<!-- github-button: https://github.com/kbalducci/conf_scheduler -->
+site-button: https://www.dropbox.com/s/zk8ucrpbgz7ltx6/Technology%20Presentation%202014%20B.ppt?dl=0
 ---
