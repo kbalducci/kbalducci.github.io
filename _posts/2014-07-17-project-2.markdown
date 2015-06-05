@@ -1,5 +1,5 @@
 ---
-title: Digital Etiquette and Cyber Safety
+title: Digital Etiquette & Cyber Safety
 subtitle: Blog Post
 layout: default
 modal-id: 2
