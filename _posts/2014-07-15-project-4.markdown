@@ -4,8 +4,8 @@ subtitle: Animoto - Good Things
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: vid.png
-thumbnail: vid.png
+img: vid2.png
+thumbnail: vid2.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
