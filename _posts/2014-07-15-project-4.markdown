@@ -2,7 +2,7 @@
 title: Student Created Video
 subtitle: Animoto - Good Things
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
 img: vid2.png
 thumbnail: vid2.png
